@@ -1,0 +1,116 @@
+ID,Name,In stock?,Sale price,Regular price
+6094,Sweet Potato / Chakkaravallikizhangu - 250,1,10,12
+6096,Sweet Potato / Chakkaravallikizhangu - 500,1,20,24
+6122,Elephant Yam / Karunai Kizhangu - 250,1,13,15
+6123,Elephant Yam / Karunai Kizhangu - 500,1,24,25
+6124,Potato / Urulaikizhangu - 250,1,12,13
+6125,Potato / Urulaikizhangu - 500,1,24,25
+6126,Potato / Urulaikizhangu - 1Kg,1,48,50
+6127,Red Radish / Sivappu Mullangi - 250,1,13,14
+6128,Red Radish / Sivappu Mullangi - 500,1,25,28
+6129,Radish / Mullangi - 250,1,13,14
+6130,Radish / Mullangi - 500,1,25,28
+6131,Drum Stick / Murungai Kaai - 1 pc,1,5,10
+6132,Drum Stick / Murungai Kaai - 2 pcs,1,10,20
+6133,Drum Stick / Murungai Kaai - 3 Pieces,1,15,30
+6134,Colocasia / Seppankizhangu - 250,1,25,30
+6135,Colocasia / Seppankizhangu - 500,1,50,60
+6136,Tapioca / Maravallikizhangu - 250,1,12,15
+6137,Tapioca / Maravallikizhangu - 500,1,24,25
+6138,Carrot - 250,1,13,15
+6139,Carrot - 500,1,28,30
+6140,Ma Ingi - 100,0,,11
+6141,Ma Ingi - 250,0,,26
+6142,Ginger / Ingi - 100,1,10,10
+6143,Ginger / Ingi - 250,1,25,25
+6144,Beet Root - 250,1,13,15
+6145,Beet Root - 500,1,25,30
+6149,Big Onion / Periya Vengayam - 500,1,11,15
+6151,Garlic / Poondu - 250,1,45,50
+6152,Garlic / Poondu - 500,1,90,100
+6153,Double Beans / Irratai Pattani - 250,0,,63
+6154,Double Beans / Irratai Pattani - 500,0,,125
+6155,Peas / Pattani - 1Kg,1,160,180
+6156,Peas / Pattani - 500,1,80,90
+6158,Cluster Beans / Kothavarai - 250,1,14,15
+6159,Cluster Beans / Kothavarai - 500,1,28,30
+6161,Broad Beans / Patta Avarakkai - 250,1,19,20
+6162,Broad Beans / Patta Avarakkai - 500,1,38,40
+6163,Beans - 250,1,27,30
+6164,Beans - 500,1,55,60
+6166,Cucumber / Vellarikai - 1Kg,1,55,60
+6167,Cucumber / Vellarikai - 500,1,27,30
+6168,Cabbage / Muttaikose - 1 pc,1,40,45
+6169,Cabbage / Muttaikose - 2 pcs,1,80,90
+6170,Lettuce / Ilaikose - 250,1,28,30
+6171,Lettuce / Ilaikose - 500,1,55,60
+6172,Plantain Flower / Vaazhai Poo - 1 pc,1,25,30
+6173,Plantain Flower / Vaazhai Poo - 2 pcs,1,50,60
+6174,Plantain Stem / Vaazhai Thandu - 1 pc,1,12,15
+6175,Plantain Stem / Vaazhai Thandu - 2 pcs,1,24,30
+6176,Cauliflower - 1 pc,1,43,45
+6177,Cauliflower - 2 pcs,1,86,90
+6179,Capsicum / Kudamilagai - 250,1,13,15
+6180,Capsicum / Kudamilagai - 500,1,26,30
+6182,Kohl Rabi / Nookal - 250,1,13,15
+6183,Kohl Rabi / Nookal - 500,1,26,30
+6184,Broccoli - 1 pc,1,65,75
+6185,Broccoli - 2 pcs,1,130,150
+6192,Country Tomato / Nattu Thakkali - 1Kg,1,16,18
+6194,Country Tomato / Nattu Thakkali - 500,1,8,10
+6195,Tomato / Thakkali - 1Kg,1,20,25
+6197,Tomato / Thakkali - 500,1,10,13
+6199,Pumpkin / Manjal Poosani - 250,1,20,25
+6200,Pumpkin / Manjal Poosani - 500,1,40,50
+6203,Plantain / Vaazhai Kaai - 1 pc,1,10,15
+6204,Plantain / Vaazhai Kaai - 2 pcs,1,20,30
+6205,Green Chilli / Pachai Milagai - 100,1,10,12
+6206,Green Chilli / Pachai Milagai - 250,1,25,27
+6207,Red Chilli / Vara Milagai - 100,0,,28
+6208,Red Chilli / Vara Milagai - 250,0,,55
+6209,Brinjal / Kathirikai - 250,1,12,15
+6210,Brinjal / Kathirikai - 500,1,24,25
+6211,Ladies Finger / Vendaikaai - 250,1,19,20
+6212,Ladies Finger / Vendaikaai - 500,1,38,40
+6213,Gooseberry / Nellikka - 250,1,23,25
+6214,Gooseberry / Nellikka - 500,1,46,50
+6216,Mushroom / Kaalan - 250,1,55,65
+6217,Mushroom / Kaalan - 500,1,110,130
+6218,Chow Chow - 250,1,18,20
+6219,Chow Chow - 500,1,36,40
+6221,Snake Gourd / Pudalangai - 250,1,12,15
+6222,Snake Gourd / Pudalangai - 500,1,24,30
+6223,Ridge Gourd / Peerkangai - 250,1,17,18
+6224,Ridge Gourd / Peerkangai - 500,1,33,35
+6225,Small Onion / Chinna Vengayam - 250,1,24,25
+6226,Small Onion / Chinna Vengayam - 500,1,48,50
+6229,Ivy Gourd / Kovakkai - 250,1,14,15
+6230,Ivy Gourd / Kovakkai - 500,1,28,30
+6233,Bottle Gourd / Suraikai - 1 pc,1,18,20
+6234,Bottle Gourd / Suraikai - 2 pcs,1,36,40
+6235,Bitter Gourd / Paagarkaai - 250,1,14,15
+6236,Bitter Gourd / Paagarkaai - 500,1,28,30
+6238,Ash Gourd / Neer Poosanikai - 1 pc,1,13,15
+6239,Ash Gourd / Neer Poosanikai - 2 pcs,1,25,30
+6243,Baby Corn - 400,1,60,80
+6244,Sweet Corn - 1 pc,1,20,22
+6245,Sweet Corn - 2 pcs,1,40,44
+6246,Coriander / Kothamalli - 1 Bunch,1,10,11
+6247,Coriander / Kothamalli - 2 Bunch,1,20,22
+6248,Curry Leaves / Karuveppilai - 100,1,10,11
+6249,Curry Leaves / Karuveppilai - 250,1,25,28
+6251,Mint Leaves / Pudina - 1 Bunch,1,10,12
+6252,Mint Leaves / Pudina - 2 Bunch,1,20,22
+6253,Spinach / Keerai - 1 Bunch,1,11,15
+6254,Spinach / Keerai - 2 Bunch,1,22,30
+7285,Coconut - 1 pc,1,21,25
+7286,Coconut - 2 pcs,1,42,50
+7290,Spring Onion / Vengaya Thal - 1 Bunch,1,22,25
+7291,Spring Onion / Vengaya Thal - 2 Bunch,1,44,50
+7295,Big Onion / Periya Vengayam - 1Kg,1,22,25
+7297,Garlic / Poondu - 1Kg,1,140,160
+7300,Baby Corn - 200,1,30,40
+7333,Beet Root - 1Kg,1,52,60
+7334,Brinjal / Kathirikai - 1Kg,1,46,50
+7335,Carrot - 1Kg,1,55,65
+7336,Ladies Finger / Vendaikaai - 1Kg,1,65,80
